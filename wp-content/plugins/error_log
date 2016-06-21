@@ -1,0 +1,2 @@
+[10-Oct-2015 23:09:22] PHP Fatal error:  Call to undefined function  add_action() in /home2/youandm1/public_html/livefromtheannex/wp-content/plugins/hello.php on line 60
+[23-Oct-2015 13:47:48] PHP Fatal error:  Call to undefined function  add_action() in /home2/youandm1/public_html/livefromtheannex/wp-content/plugins/hello.php on line 60

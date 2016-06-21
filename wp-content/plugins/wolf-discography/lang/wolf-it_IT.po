@@ -1,0 +1,591 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolf Discography\n"
+"POT-Creation-Date: 2014-05-26 18:28+0100\n"
+"PO-Revision-Date: 2014-07-19 15:17+0100\n"
+"Last-Translator: Gigi Pastore <luigipastore@gmail.com>\n"
+"Language-Team: wpwolf.com <support@wpwolf.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"Language: it_IT\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/class-metabox.php:193
+#: ../pack/wolf-discography/classes/class-metabox.php:193
+msgid "Select one"
+msgstr "Seleziona"
+
+#: ../classes/class-metabox.php:261 ../classes/class-metabox.php:287
+#: ../pack/wolf-discography/classes/class-metabox.php:261
+#: ../pack/wolf-discography/classes/class-metabox.php:287
+msgid "Clear"
+msgstr "Pulisci"
+
+#: ../classes/class-metabox.php:262 ../classes/class-metabox.php:288
+#: ../pack/wolf-discography/classes/class-metabox.php:262
+#: ../pack/wolf-discography/classes/class-metabox.php:288
+msgid "Choose an image"
+msgstr "Scegli immagine"
+
+#: ../classes/class-metabox.php:278
+#: ../pack/wolf-discography/classes/class-metabox.php:278
+msgid "Background color"
+msgstr "Background color"
+
+#: ../classes/class-metabox.php:282
+#: ../pack/wolf-discography/classes/class-metabox.php:282
+msgid "Background image"
+msgstr "Background image"
+
+#: ../classes/class-metabox.php:297
+#: ../pack/wolf-discography/classes/class-metabox.php:297
+msgid "Background repeat"
+msgstr "Background repeat"
+
+#: ../classes/class-metabox.php:320
+#: ../pack/wolf-discography/classes/class-metabox.php:320
+msgid "Background position"
+msgstr "Background position"
+
+#: ../classes/class-metabox.php:334
+#: ../pack/wolf-discography/classes/class-metabox.php:334
+msgid "Background attachment"
+msgstr "Background attachment"
+
+#: ../classes/class-metabox.php:348
+#: ../pack/wolf-discography/classes/class-metabox.php:348
+msgid "Background size"
+msgstr "Background size"
+
+#: ../classes/widgets/class-wd-widget-discography.php:27
+#: ../pack/wolf-discography/classes/widgets/class-wd-widget-discography.php:27
+msgid "Display your discography"
+msgstr "Visualizza la discografia"
+
+#: ../classes/widgets/class-wd-widget-discography.php:30
+#: ../pack/wolf-discography/classes/widgets/class-wd-widget-discography.php:30
+msgid "Discography"
+msgstr "Discografia"
+
+#: ../classes/widgets/class-wd-widget-discography.php:91
+#: ../pack/wolf-discography/classes/widgets/class-wd-widget-discography.php:91
+#: ../pack/wolf-discography/wolf-discography.php:387
+#: ../pack/wolf-discography/wolf-discography.php:399
+#: ../wolf-discography.php:387 ../wolf-discography.php:399
+msgid "Releases"
+msgstr "Pubblicazioni"
+
+#: ../classes/widgets/class-wd-widget-discography.php:98
+#: ../classes/widgets/class-wd-widget-last-release.php:95
+#: ../pack/wolf-discography/classes/widgets/class-wd-widget-discography.php:98
+#: ../pack/wolf-discography/classes/widgets/class-wd-widget-last-release.php:95
+#: ../pack/wolf-discography/templates/content-release.php:70
+#: ../pack/wolf-discography/templates/single-release.php:83
+#: ../pack/wolf-discography/wolf-discography.php:517
+#: ../templates/content-release.php:70 ../templates/single-release.php:83
+#: ../wolf-discography.php:517
+msgid "Title"
+msgstr "Titolo"
+
+#: ../classes/widgets/class-wd-widget-discography.php:102
+#: ../classes/widgets/class-wd-widget-last-release.php:99
+#: ../pack/wolf-discography/classes/widgets/class-wd-widget-discography.php:102
+#: ../pack/wolf-discography/classes/widgets/class-wd-widget-last-release.php:99
+msgid "Optional Text"
+msgstr "Testo Facoltativo"
+
+#: ../classes/widgets/class-wd-widget-discography.php:106
+#: ../pack/wolf-discography/classes/widgets/class-wd-widget-discography.php:106
+msgid "Count"
+msgstr ""
+
+#: ../classes/widgets/class-wd-widget-last-release.php:27
+#: ../pack/wolf-discography/classes/widgets/class-wd-widget-last-release.php:27
+msgid "Display your last release"
+msgstr "Vedi la tua ultima pubblicazione"
+
+#: ../classes/widgets/class-wd-widget-last-release.php:30
+#: ../classes/widgets/class-wd-widget-last-release.php:89
+#: ../pack/wolf-discography/classes/widgets/class-wd-widget-last-release.php:30
+#: ../pack/wolf-discography/classes/widgets/class-wd-widget-last-release.php:89
+msgid "Last Release"
+msgstr "Ultima Pubblicazione"
+
+#: ../pack/wolf-discography/templates/content-release-shortcode.php:17
+#: ../pack/wolf-discography/templates/content-release-shortcode.php:22
+#: ../pack/wolf-discography/templates/content-release.php:54
+#: ../pack/wolf-discography/templates/content-release.php:63
+#: ../templates/content-release-shortcode.php:17
+#: ../templates/content-release-shortcode.php:22
+#: ../templates/content-release.php:54 ../templates/content-release.php:63
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink a %s"
+
+#: ../pack/wolf-discography/templates/content-release-shortcode.php:39
+#: ../pack/wolf-discography/templates/single-release.php:63
+#: ../templates/content-release-shortcode.php:39
+#: ../templates/single-release.php:63
+msgid "Buy"
+msgstr "Acquista"
+
+#: ../pack/wolf-discography/templates/content-release-shortcode.php:44
+#: ../pack/wolf-discography/templates/single-release.php:68
+#: ../templates/content-release-shortcode.php:44
+#: ../templates/single-release.php:68
+msgid "Free Download"
+msgstr "Download Gratuito"
+
+#: ../pack/wolf-discography/templates/content-release.php:14
+#: ../pack/wolf-discography/templates/content-release.php:19
+#: ../pack/wolf-discography/templates/single-release.php:22
+#: ../templates/content-release.php:14 ../templates/content-release.php:19
+#: ../templates/single-release.php:22
+msgid "Band "
+msgstr "Band"
+
+#: ../pack/wolf-discography/templates/content-release.php:27
+#: ../pack/wolf-discography/templates/content-release.php:32
+#: ../pack/wolf-discography/templates/single-release.php:23
+#: ../templates/content-release.php:27 ../templates/content-release.php:32
+#: ../templates/single-release.php:23
+msgid "Label "
+msgstr "Etichetta"
+
+#: ../pack/wolf-discography/templates/content-release.php:58
+#: ../pack/wolf-discography/templates/single-release.php:108
+#: ../templates/content-release.php:58 ../templates/single-release.php:108
+msgid "Edit"
+msgstr "Modifica"
+
+#: ../pack/wolf-discography/templates/content-release.php:75
+#: ../pack/wolf-discography/templates/single-release.php:88
+#: ../templates/content-release.php:75 ../templates/single-release.php:88
+msgid "Release Date"
+msgstr "Data Pubblicazione"
+
+#: ../pack/wolf-discography/templates/content-release.php:83
+#: ../pack/wolf-discography/templates/single-release.php:96
+#: ../templates/content-release.php:83 ../templates/single-release.php:96
+msgid "Catalog ref."
+msgstr "Rif. Catalogo"
+
+#: ../pack/wolf-discography/templates/content-release.php:88
+#: ../pack/wolf-discography/templates/single-release.php:101
+#: ../templates/content-release.php:88 ../templates/single-release.php:101
+msgid "Format"
+msgstr "Formato"
+
+#: ../pack/wolf-discography/templates/content-release.php:91
+#: ../pack/wolf-discography/wolf-discography.php:965
+#: ../templates/content-release.php:91 ../wolf-discography.php:965
+msgid "View Details"
+msgstr "Vedi Dettagli"
+
+#: ../pack/wolf-discography/templates/loop/no-releases-found.php:1
+#: ../templates/loop/no-releases-found.php:1
+msgid "No release yet"
+msgstr "Nessuna uscita"
+
+#: ../pack/wolf-discography/wolf-discography.php:202
+#: ../wolf-discography.php:202
+#, php-format
+msgid ""
+"says : <em>Almost done! you need to <a href=\"%1$s\">create a page</a> for "
+"your discography or <a href=\"%2$s\">select an existing page</a> in the "
+"plugin settings</em>"
+msgstr ""
+"dice: <em>Ci siamo quasi! Devi <a href=\"%1$s\">creare una pagina</a> per la "
+"tua discografia o <a href=\"%2$s\">selezionarne una esistente</a> nelle "
+"impostazioni del plugin</em>"
+
+#: ../pack/wolf-discography/wolf-discography.php:243
+#: ../wolf-discography.php:243
+msgid "Your discography page has been created succesfully"
+msgstr "La pagina della discografia è stata creata correttamente"
+
+#: ../pack/wolf-discography/wolf-discography.php:388
+#: ../wolf-discography.php:388
+msgid "Release"
+msgstr "Pubblicazione"
+
+#: ../pack/wolf-discography/wolf-discography.php:389
+#: ../wolf-discography.php:389
+msgid "Add New"
+msgstr "Aggiungi Nuova"
+
+#: ../pack/wolf-discography/wolf-discography.php:390
+#: ../wolf-discography.php:390
+msgid "Add New Release"
+msgstr "Aggiungi Nuova Pubblicazione"
+
+#: ../pack/wolf-discography/wolf-discography.php:391
+#: ../wolf-discography.php:391
+msgid "All Releases"
+msgstr "Tutte le Pubblicazioni"
+
+#: ../pack/wolf-discography/wolf-discography.php:392
+#: ../wolf-discography.php:392
+msgid "Edit Release"
+msgstr "Modifica Pubblicazione"
+
+#: ../pack/wolf-discography/wolf-discography.php:393
+#: ../wolf-discography.php:393
+msgid "New Release"
+msgstr "Nuova Pubblicazione"
+
+#: ../pack/wolf-discography/wolf-discography.php:394
+#: ../wolf-discography.php:394
+msgid "View Release"
+msgstr "Vedi Pubblicazione"
+
+#: ../pack/wolf-discography/wolf-discography.php:395
+#: ../wolf-discography.php:395
+msgid "Search Releases"
+msgstr "Cerca Pubblicazione"
+
+#: ../pack/wolf-discography/wolf-discography.php:396
+#: ../wolf-discography.php:396
+msgid "No releases found"
+msgstr "Nessuna pubblicazione trovata"
+
+#: ../pack/wolf-discography/wolf-discography.php:397
+#: ../wolf-discography.php:397
+msgid "No releases found in Trash"
+msgstr "Nessuca pubblicazione trovata nel Cestino"
+
+#: ../pack/wolf-discography/wolf-discography.php:431
+#: ../pack/wolf-discography/wolf-discography.php:445
+#: ../wolf-discography.php:431 ../wolf-discography.php:445
+msgid "Bands"
+msgstr "Bands"
+
+#: ../pack/wolf-discography/wolf-discography.php:432
+#: ../wolf-discography.php:432
+msgid "Band"
+msgstr "Band"
+
+#: ../pack/wolf-discography/wolf-discography.php:433
+#: ../wolf-discography.php:433
+msgid "Search Bands"
+msgstr "Cerca Band"
+
+#: ../pack/wolf-discography/wolf-discography.php:434
+#: ../wolf-discography.php:434
+msgid "Popular Bands"
+msgstr "Band più utilizzate"
+
+#: ../pack/wolf-discography/wolf-discography.php:435
+#: ../wolf-discography.php:435
+msgid "All Bands"
+msgstr "Tutte le Band"
+
+#: ../pack/wolf-discography/wolf-discography.php:436
+#: ../wolf-discography.php:436
+msgid "Parent Band"
+msgstr "Band Genitore"
+
+#: ../pack/wolf-discography/wolf-discography.php:437
+#: ../wolf-discography.php:437
+msgid "Parent Band:"
+msgstr "Band Genitore:"
+
+#: ../pack/wolf-discography/wolf-discography.php:438
+#: ../wolf-discography.php:438
+msgid "Edit Band"
+msgstr "Modifica Band"
+
+#: ../pack/wolf-discography/wolf-discography.php:439
+#: ../wolf-discography.php:439
+msgid "Update Band"
+msgstr "Aggiorna Band"
+
+#: ../pack/wolf-discography/wolf-discography.php:440
+#: ../wolf-discography.php:440
+msgid "Add New Band"
+msgstr "Aggiungi Band"
+
+#: ../pack/wolf-discography/wolf-discography.php:441
+#: ../wolf-discography.php:441
+msgid "New Band"
+msgstr "Nuova Band"
+
+#: ../pack/wolf-discography/wolf-discography.php:442
+#: ../wolf-discography.php:442
+msgid "Separate bands with commas"
+msgstr "Separa le band con la virgola"
+
+#: ../pack/wolf-discography/wolf-discography.php:443
+#: ../wolf-discography.php:443
+msgid "Add or remove bands"
+msgstr "Aggiungi o rimuovi band"
+
+#: ../pack/wolf-discography/wolf-discography.php:444
+#: ../wolf-discography.php:444
+msgid "Choose from the most used bands"
+msgstr "Scegli tra le band più utilizzate"
+
+#: ../pack/wolf-discography/wolf-discography.php:462
+#: ../pack/wolf-discography/wolf-discography.php:476
+#: ../wolf-discography.php:462 ../wolf-discography.php:476
+msgid "Labels"
+msgstr "Etichette"
+
+#: ../pack/wolf-discography/wolf-discography.php:463
+#: ../wolf-discography.php:463
+msgid "Label"
+msgstr "Etichetta"
+
+#: ../pack/wolf-discography/wolf-discography.php:464
+#: ../wolf-discography.php:464
+msgid "Search Labels"
+msgstr "Cerca Etichetta"
+
+#: ../pack/wolf-discography/wolf-discography.php:465
+#: ../wolf-discography.php:465
+msgid "Popular Labels"
+msgstr "Etichette più utilizzate"
+
+#: ../pack/wolf-discography/wolf-discography.php:466
+#: ../wolf-discography.php:466
+msgid "All Labels"
+msgstr "Tutte le Etichette"
+
+#: ../pack/wolf-discography/wolf-discography.php:467
+#: ../wolf-discography.php:467
+msgid "Parent Label"
+msgstr "Etichetta Genitore"
+
+#: ../pack/wolf-discography/wolf-discography.php:468
+#: ../wolf-discography.php:468
+msgid "Parent Label:"
+msgstr "Etichetta Genitore:"
+
+#: ../pack/wolf-discography/wolf-discography.php:469
+#: ../wolf-discography.php:469
+msgid "Edit Label"
+msgstr "Modifica Etichetta"
+
+#: ../pack/wolf-discography/wolf-discography.php:470
+#: ../wolf-discography.php:470
+msgid "Update Label"
+msgstr "Aggiorna Etichetta"
+
+#: ../pack/wolf-discography/wolf-discography.php:471
+#: ../wolf-discography.php:471
+msgid "Add New Label"
+msgstr "Aggiungi Etichetta"
+
+#: ../pack/wolf-discography/wolf-discography.php:472
+#: ../wolf-discography.php:472
+msgid "New Label"
+msgstr "Nuova Etichetta"
+
+#: ../pack/wolf-discography/wolf-discography.php:473
+#: ../wolf-discography.php:473
+msgid "Separate labels with commas"
+msgstr "Separa le etichette con la virgola"
+
+#: ../pack/wolf-discography/wolf-discography.php:474
+#: ../wolf-discography.php:474
+msgid "Add or remove labels"
+msgstr "Aggiungi o rimuovi etichette"
+
+#: ../pack/wolf-discography/wolf-discography.php:475
+#: ../wolf-discography.php:475
+msgid "Choose from the most used labels"
+msgstr "Scegli tra le etichette più utilizzate"
+
+#: ../pack/wolf-discography/wolf-discography.php:498
+#: ../wolf-discography.php:498
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ../pack/wolf-discography/wolf-discography.php:499
+#: ../wolf-discography.php:499
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../pack/wolf-discography/wolf-discography.php:511
+#: ../wolf-discography.php:511
+msgid "Release Details"
+msgstr "Dettagli Pubblicazione"
+
+#: ../pack/wolf-discography/wolf-discography.php:523
+#: ../wolf-discography.php:523
+msgid "Release date"
+msgstr "Data Pubblicazione"
+
+#: ../pack/wolf-discography/wolf-discography.php:529
+#: ../wolf-discography.php:529
+msgid "Catalog Number"
+msgstr "Numero Catalogo"
+
+#: ../pack/wolf-discography/wolf-discography.php:535
+#: ../wolf-discography.php:535
+msgid "Type"
+msgstr "Tipo"
+
+#: ../pack/wolf-discography/wolf-discography.php:537
+#: ../wolf-discography.php:537
+#, php-format
+msgid ""
+"You can choose to not display the format in the <a href=\"%s\">plugin "
+"options</a>"
+msgstr ""
+"Puoi scegliere di non visualizzare il formato nelle <a href=\"%s"
+"\">impostazioni del plugin</a>"
+
+#: ../pack/wolf-discography/wolf-discography.php:540
+#: ../wolf-discography.php:540
+msgid "CD"
+msgstr "CD"
+
+#: ../pack/wolf-discography/wolf-discography.php:541
+#: ../wolf-discography.php:541
+msgid "Digital Download"
+msgstr "Download Digitale"
+
+#: ../pack/wolf-discography/wolf-discography.php:542
+#: ../wolf-discography.php:542
+msgid "DVD"
+msgstr "DVD"
+
+#: ../pack/wolf-discography/wolf-discography.php:543
+#: ../wolf-discography.php:543
+msgid "Vinyl"
+msgstr "Vinile"
+
+#: ../pack/wolf-discography/wolf-discography.php:544
+#: ../wolf-discography.php:544
+msgid "Tape"
+msgstr "Musicassetta"
+
+#: ../pack/wolf-discography/wolf-discography.php:549
+#: ../wolf-discography.php:549
+msgid "iTunes"
+msgstr "iTunes"
+
+#: ../pack/wolf-discography/wolf-discography.php:555
+#: ../wolf-discography.php:555
+msgid "Amazon"
+msgstr "Amazon"
+
+#: ../pack/wolf-discography/wolf-discography.php:561
+#: ../wolf-discography.php:561
+msgid "Buy (any link where the release can be purchased)"
+msgstr "Acquista (link a cui si può acquistare la pubblicazione)"
+
+#: ../pack/wolf-discography/wolf-discography.php:567
+#: ../wolf-discography.php:567
+msgid "Free Download link"
+msgstr "Link Download gratuito"
+
+#: ../pack/wolf-discography/wolf-discography.php:629
+#: ../wolf-discography.php:629
+msgid "Discography Page"
+msgstr "Pagina Discografia"
+
+#: ../pack/wolf-discography/wolf-discography.php:630
+#: ../wolf-discography.php:630
+msgid "Link Band Name to category page"
+msgstr "Collega Nome Band alla pagina categoria"
+
+#: ../pack/wolf-discography/wolf-discography.php:631
+#: ../wolf-discography.php:631
+msgid "Link Label Name to category page"
+msgstr "Collega Nome Etichetta alla pagina categoria"
+
+#: ../pack/wolf-discography/wolf-discography.php:632
+#: ../wolf-discography.php:632
+msgid "Display format (like CD, digital download etc...)"
+msgstr "Visualizza formato (come CD, download digitale ecc...)"
+
+#: ../pack/wolf-discography/wolf-discography.php:633
+#: ../wolf-discography.php:633
+msgid "Info"
+msgstr "Info"
+
+#: ../pack/wolf-discography/wolf-discography.php:676
+#: ../wolf-discography.php:676
+msgid "Select a page..."
+msgstr "Seleziona una pagina..."
+
+#: ../pack/wolf-discography/wolf-discography.php:731
+#: ../wolf-discography.php:731
+#, php-format
+msgid ""
+"If a discography page returns a 404 error, refresh your <a href=\"%s"
+"\">permalink structure</a>"
+msgstr ""
+"Se la pagina discografia restituisce un errore 404, aggiorna la <a href=\"%s"
+"\">struttura permalink</a>"
+
+#: ../pack/wolf-discography/wolf-discography.php:744
+#: ../wolf-discography.php:744
+msgid "Discography Shortcode"
+msgstr "Shortcode Discografia"
+
+#: ../pack/wolf-discography/wolf-discography.php:745
+#: ../wolf-discography.php:745
+msgid ""
+"To display your last releases in your post or page you can use the following "
+"shortcode."
+msgstr ""
+"Per visualizzare le tue ultime pubblicazioni nei post o nelle pagine puoi "
+"usare il seguente shortcode."
+
+#: ../pack/wolf-discography/wolf-discography.php:747
+#: ../wolf-discography.php:747
+msgid "Additionally, you can add a count and/or categories attributes."
+msgstr "Inoltre, puoi aggiungere un attributo count e/o un attributo category."
+
+#: ../pack/wolf-discography/wolf-discography.php:750
+#: ../wolf-discography.php:750
+msgid "You can also add a column count attribute."
+msgstr "Puoi anche aggiungere un attributo per il numero di colonne."
+
+#: ../pack/wolf-discography/wolf-discography.php:765
+#: ../wolf-discography.php:765
+msgid "Discography Options"
+msgstr "Impostazioni Discografia"
+
+#: ../pack/wolf-discography/wolf-discography.php:768
+#: ../wolf-discography.php:768
+msgid "Settings saved."
+msgstr "Impostazioni salvate."
+
+#: ../pack/wolf-discography/wolf-discography.php:774
+#: ../wolf-discography.php:774
+msgid "Save Changes"
+msgstr "Salva Impostazioni"
+
+#: ../pack/wolf-discography/wolf-discography.php:868
+#: ../wolf-discography.php:868
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: ../pack/wolf-discography/wolf-discography.php:869
+#: ../wolf-discography.php:869
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../pack/wolf-discography/wolf-discography.php:898
+#: ../wolf-discography.php:898
+msgid "<span class=\"meta-nav\">&larr;</span> Older releases"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vecchie uscite"
+
+#: ../pack/wolf-discography/wolf-discography.php:902
+#: ../wolf-discography.php:902
+msgid "Newer releases <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nuove uscite <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../pack/wolf-discography/wolf-discography.php:938
+#: ../pack/wolf-discography/wolf-discography.php:970
+#: ../wolf-discography.php:938 ../wolf-discography.php:970
+msgid "No release to display yet."
+msgstr "Nessuna pubblicazione da visualizzare"

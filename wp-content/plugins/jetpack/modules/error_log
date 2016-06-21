@@ -1,0 +1,2 @@
+[14-Apr-2016 12:14:36 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/youandm1/public_html/livefromtheannex/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.php on line 28
+[14-Apr-2016 12:14:46 America/Denver] PHP Fatal error:  Call to undefined function apply_filters() in /home2/youandm1/public_html/livefromtheannex/wp-content/plugins/jetpack/modules/module-extras.php on line 31

@@ -1,0 +1,68 @@
+/* Video Widget
+-------------------------------------------------------------*/
+.wolf_widget_video .widget-video-container {
+  zoom: 1;
+  display: block;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+  position: relative;
+}
+.wolf_widget_video .widget-video-container:before, .wolf_widget_video .widget-video-container:after {
+  content: "";
+  display: table;
+}
+.wolf_widget_video .widget-video-container:after {
+  clear: both;
+}
+.wolf_widget_video .widget-video-container iframe, .wolf_widget_video .widget-video-container embed, .wolf_widget_video .widget-video-container object {
+  width: 100%!important;
+  height: 100%!important;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* Recent Posts & Recent Comments Widget
+-------------------------------------------------------------*/
+.wolf_widget_recent_posts .widget-entry,
+.wolf_widget_recent_comments .widget-entry {
+  zoom: 1;
+  font-size: 95%;
+  margin-bottom: 5px;
+  line-height: 1.5;
+}
+.wolf_widget_recent_posts .widget-entry:before, .wolf_widget_recent_posts .widget-entry:after,
+.wolf_widget_recent_comments .widget-entry:before,
+.wolf_widget_recent_comments .widget-entry:after {
+  content: "";
+  display: table;
+}
+.wolf_widget_recent_posts .widget-entry:after,
+.wolf_widget_recent_comments .widget-entry:after {
+  clear: both;
+}
+.wolf_widget_recent_posts .widget-entry a.widget-thumbnail-link,
+.wolf_widget_recent_comments .widget-entry a.widget-thumbnail-link {
+  display: block;
+  float: left;
+  margin: 2px 10px 10px 0;
+  width: 80px;
+  height: 80px;
+}
+.wolf_widget_recent_posts .widget-entry a.widget-thumbnail-link img,
+.wolf_widget_recent_comments .widget-entry a.widget-thumbnail-link img {
+  width: 100%;
+  height: 100%;
+}
+
+.wolf_widget_recent_posts .widget-entry .widget-entry-title, .wolf_widget_recent_posts .widget-entry .time, .wolf_widget_recent_posts .widget-entry .comment-count {
+  display: block;
+}
+.wolf_widget_recent_posts .widget-entry .widget-entry-title {
+  font-weight: 700;
+}
+.wolf_widget_recent_posts .widget-entry .widget-entry-title a {
+  text-decoration: none;
+}

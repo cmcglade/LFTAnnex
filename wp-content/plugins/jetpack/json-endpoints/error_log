@@ -1,0 +1,1 @@
+[14-Apr-2016 12:14:51 America/Denver] PHP Fatal error:  Class 'WPCOM_JSON_API_Endpoint' not found in /home2/youandm1/public_html/livefromtheannex/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-render-endpoint.php on line 4

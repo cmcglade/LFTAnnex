@@ -1,0 +1,2 @@
+[14-Apr-2016 12:14:50 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/twentythirteen/author.php on line 12
+[14-Apr-2016 12:14:55 America/Denver] PHP Fatal error:  Call to undefined function the_id() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/twentythirteen/content-aside.php on line 11

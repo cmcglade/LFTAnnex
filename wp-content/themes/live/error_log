@@ -1,0 +1,13 @@
+[20-May-2015 19:42:51] PHP Fatal error:  Call to undefined function  get_header() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/index.php on line 11
+[19-Sep-2015 03:32:49] PHP Fatal error:  Call to undefined function  post_password_required() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/comments.php on line 14
+[17-Dec-2015 16:35:16] PHP Fatal error:  Call to undefined function  get_header() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/index.php on line 11
+[01-Mar-2016 05:20:59 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/header.php on line 10
+[01-Mar-2016 05:20:59 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/functions.php on line 16
+[01-Mar-2016 05:20:59 America/Denver] PHP Fatal error:  Call to undefined function wolf_bottom_holder() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/footer.php on line 12
+[01-Mar-2016 05:21:04 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/404.php on line 6
+[01-Mar-2016 08:55:57 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/header.php on line 10
+[01-Mar-2016 08:55:58 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/functions.php on line 16
+[01-Mar-2016 08:55:59 America/Denver] PHP Fatal error:  Call to undefined function wolf_bottom_holder() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/footer.php on line 12
+[01-Mar-2016 08:56:07 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/404.php on line 6
+[12-Mar-2016 20:47:08 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/functions.php on line 16
+[12-Mar-2016 20:47:09 America/Denver] PHP Fatal error:  Call to undefined function wolf_bottom_holder() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/live/footer.php on line 12

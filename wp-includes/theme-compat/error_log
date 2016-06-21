@@ -1,0 +1,6 @@
+[23-Aug-2015 22:49:17] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/youandm1/public_html/livefromtheannex/wp-includes/theme-compat/comments.php on line 10
+[29-Aug-2015 21:00:21] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/youandm1/public_html/livefromtheannex/wp-includes/theme-compat/comments.php on line 10
+[30-Aug-2015 03:35:22] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/youandm1/public_html/livefromtheannex/wp-includes/theme-compat/comments.php on line 10
+[15-Sep-2015 00:06:00] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/youandm1/public_html/livefromtheannex/wp-includes/theme-compat/comments.php on line 10
+[30-Sep-2015 11:52:22] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/youandm1/public_html/livefromtheannex/wp-includes/theme-compat/comments.php on line 10
+[14-Apr-2016 12:14:48 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/youandm1/public_html/livefromtheannex/wp-includes/theme-compat/comments.php on line 10

@@ -1,0 +1,2 @@
+[14-Apr-2016 12:14:47 America/Denver] PHP Fatal error:  Call to undefined function the_id() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/twentyfourteen/content-image.php on line 11
+[14-Apr-2016 12:14:51 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/youandm1/public_html/livefromtheannex/wp-content/themes/twentyfourteen/taxonomy-post_format.php on line 19
